@@ -9,6 +9,7 @@ for 'Getting and Cleaning Data', fall 2014, course project
 
 The project requirements are found at (registration required): 
 https://class.coursera.org/getdata-007/human_grading/view/courses/972585/assessments/3/submissions
+
 A copy of the most pertinent points is in this file n the project working directory:
 DescriptionPage-andRubrics.txt 
 
